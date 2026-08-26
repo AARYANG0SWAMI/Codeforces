@@ -1,0 +1,30 @@
+# Java compiled files
+*.class
+
+# IDE files
+.idea/
+.vscode/
+
+# VS Code workspace
+*.code-workspace
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+/nbproject/
+/build/
+/dist/
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
+
+# Backup files
+*~
+*.swp
