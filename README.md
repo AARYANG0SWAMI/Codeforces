@@ -4,14 +4,20 @@ My Codeforces problem-solving journey using Java.
 
 **Codeforces:** [AARYANGOSWAMI](https://codeforces.com/profile/AARYANGOSWAMI)  
 **GitHub:** [Repository](https://github.com/AARYANG0SWAMI/Codeforces)
+# AARYANGOSWAMI - Codeforces Solutions
+
+My Codeforces problem-solving journey using Java.
+
+**Codeforces:** [AARYANGOSWAMI](https://codeforces.com/profile/AARYANGOSWAMI)  
+**GitHub:** [Repository](https://github.com/AARYANG0SWAMI/Codeforces)
 
 ## 📊 Statistics
 
-**Total Problems Solved:** 8
+**Total Problems Solved:** 9
 
 | Rating | Solved |
 |-------:|-------:|
-| 800 | 6 |
+| 800 | 7 |
 | 900 | 1 |
 | 1000 | 1 |
 
@@ -20,6 +26,7 @@ My Codeforces problem-solving journey using Java.
 | # | Problem | Rating | Solution |
 |---|---|---:|---|
 | 136A | Presents | 800 | [Java](Presents.java) |
+| 144A | ArrivalOfTheGeneral | 800 | [Java](ArrivalOfTheGeneral.java) |
 | 158A | Next Round | 800 | [Java](NextRound.java) |
 | 160A | Twins | 900 | [Java](Twins.java) |
 | 231A | Team | 800 | [Java](Team.java) |
@@ -32,7 +39,7 @@ My Codeforces problem-solving journey using Java.
 
 | Rating | Problems |
 |-------:|---------:|
-| 800 | ██████ 6 |
+| 800 | ███████ 7 |
 | 900 | █ 1 |
 | 1000 | █ 1 |
 
