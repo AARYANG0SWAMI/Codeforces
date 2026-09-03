@@ -7,11 +7,11 @@ My Codeforces problem-solving journey using Java.
 
 ## 📊 Statistics
 
-**Total Problems Solved:** 10
+**Total Problems Solved:** 11
 
 | Rating | Solved |
 |-------:|-------:|
-| 800 | 8 |
+| 800 | 9 |
 | 900 | 1 |
 | 1000 | 1 |
 
@@ -19,6 +19,7 @@ My Codeforces problem-solving journey using Java.
 
 | # | Problem | Rating | Solution |
 |---|---|---:|---|
+| 116A | Tram | 800 | [Java](Tram.java) |
 | 136A | Presents | 800 | [Java](Presents.java) |
 | 144A | ArrivalOfTheGeneral | 800 | [Java](ArrivalOfTheGeneral.java) |
 | 155A | I_love_%username% | 800 | [Java](I_love_%username%.java) |
@@ -34,11 +35,10 @@ My Codeforces problem-solving journey using Java.
 
 | Rating | Problems |
 |-------:|---------:|
-| 800 | ████████ 8 |
+| 800 | █████████ 9 |
 | 900 | █ 1 |
 | 1000 | █ 1 |
 
 ---
 
 *Solutions are written and maintained by AARYANGOSWAMI.*
-
