@@ -7,11 +7,11 @@ My Codeforces problem-solving journey using Java.
 
 ## 📊 Statistics
 
-**Total Problems Solved:** 11
+**Total Problems Solved:** 12
 
 | Rating | Solved |
 |-------:|-------:|
-| 800 | 9 |
+| 800 | 10 |
 | 900 | 1 |
 | 1000 | 1 |
 
@@ -25,6 +25,7 @@ My Codeforces problem-solving journey using Java.
 | 155A | I_love_%username% | 800 | [Java](I_love_%username%.java) |
 | 158A | Next Round | 800 | [Java](NextRound.java) |
 | 160A | Twins | 900 | [Java](Twins.java) |
+| 230A | Dragons | 800 | [Java](Dragons.java) |
 | 231A | Team | 800 | [Java](Team.java) |
 | 263A | BeautifulMatrix.java | 800 | [Java](BeautifulMatrix.java) |
 | 266A | Stones On The Table | 800 | [Java](StonesOnTheTable.java) |
@@ -35,7 +36,7 @@ My Codeforces problem-solving journey using Java.
 
 | Rating | Problems |
 |-------:|---------:|
-| 800 | █████████ 9 |
+| 800 | ██████████ 10 |
 | 900 | █ 1 |
 | 1000 | █ 1 |
 
