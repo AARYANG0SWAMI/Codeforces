@@ -7,11 +7,11 @@ My Codeforces problem-solving journey using Java.
 
 ## 📊 Statistics
 
-**Total Problems Solved:** 12
+**Total Problems Solved:** 13
 
 | Rating | Solved |
 |-------:|-------:|
-| 800 | 10 |
+| 800 | 11 |
 | 900 | 1 |
 | 1000 | 1 |
 
@@ -30,13 +30,14 @@ My Codeforces problem-solving journey using Java.
 | 263A | BeautifulMatrix.java | 800 | [Java](BeautifulMatrix.java) |
 | 266A | Stones On The Table | 800 | [Java](StonesOnTheTable.java) |
 | 339A | Helpful Math | 800 | [Java](HelpfulMath.java) |
+| 450A | JzzhuAndChildren | 800 | [Java](JzzhuAndChildren.java) |
 | 2256B | Domino Tiles | 1000 | [Java](DominoTiles.java) |
 
 ## 📚 Rating Progress
 
 | Rating | Problems |
 |-------:|---------:|
-| 800 | ██████████ 10 |
+| 800 | ███████████ 11 |
 | 900 | █ 1 |
 | 1000 | █ 1 |
 
