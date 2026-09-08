@@ -7,11 +7,11 @@ My Codeforces problem-solving journey using Java.
 
 ## 📊 Statistics
 
-**Total Problems Solved:** 15
+**Total Problems Solved:** 16
 
 | Rating | Solved |
 |-------:|-------:|
-| 800 | 10 |
+| 800 | 11 |
 | 900 | 2 |
 | 1000 | 2 |
 | 1100 | 1 |
@@ -34,13 +34,14 @@ My Codeforces problem-solving journey using Java.
 | 313B | Ilya and Queries | 1100 | [Java](IlyaandQueries.java) |
 | 339A | Helpful Math | 800 | [Java](HelpfulMath.java) |
 | 450A | JzzhuAndChildren | 800 | [Java](JzzhuAndChildren.java) |
+| 2182B | New Year Cake | 800 | [Java](NewYearCake.java) |
 | 2256B | Domino Tiles | 1000 | [Java](DominoTiles.java) |
 
 ## 📚 Rating Progress
 
 | Rating | Problems |
 |-------:|---------:|
-| 800 | ██████████ 10 |
+| 800 | ███████████ 11 |
 | 900 | ██ 2 |
 | 1000 | ██ 2 |
 | 1100 | █ 1 |
@@ -48,3 +49,4 @@ My Codeforces problem-solving journey using Java.
 ---
 
 *Solutions are written and maintained by AARYANGOSWAMI.*
+
