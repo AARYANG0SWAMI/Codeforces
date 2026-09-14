@@ -7,11 +7,11 @@ My Codeforces problem-solving journey using Java.
 
 ## 📊 Statistics
 
-**Total Problems Solved:** 20
+**Total Problems Solved:** 21
 
 | Rating | Solved |
 |-------:|-------:|
-| 800 | 15 |
+| 800 | 16 |
 | 900 | 2 |
 | 1000 | 2 |
 | 1100 | 1 |
@@ -33,6 +33,7 @@ My Codeforces problem-solving journey using Java.
 | 231A | Team | 800 | [Java](Team.java) |
 | 263A | Beautiful Matrix | 800 | [Java](BeautifulMatrix.java) |
 | 266A | Stones On The Table | 800 | [Java](StonesOnTheTable.java) |
+| 281A | Word Capitalization | 800 | [Java](WordCapitalization.java) |
 | 313A | Ilya and Bank Account | 900 | [Java](IlyaandBankAccount.java) |
 | 313B | Ilya and Queries | 1100 | [Java](IlyaandQueries.java) |
 | 339A | Helpful Math | 800 | [Java](HelpfulMath.java) |
@@ -45,7 +46,7 @@ My Codeforces problem-solving journey using Java.
 
 | Rating | Problems |
 |-------:|---------:|
-| 800 | ███████████████ 15 |
+| 800 | ████████████████ 16 |
 | 900 | ██ 2 |
 | 1000 | ██ 2 |
 | 1100 | █ 1 |
