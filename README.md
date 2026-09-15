@@ -7,11 +7,11 @@ My Codeforces problem-solving journey using Java.
 
 ## 📊 Statistics
 
-**Total Problems Solved:** 21
+**Total Problems Solved:** 22
 
 | Rating | Solved |
 |-------:|-------:|
-| 800 | 16 |
+| 800 | 17 |
 | 900 | 2 |
 | 1000 | 2 |
 | 1100 | 1 |
@@ -22,6 +22,7 @@ My Codeforces problem-solving journey using Java.
 |---|---|---:|---|
 | 4A | Watermelon | 800 | [Java](Watermelon.java) |
 | 50A | Domino pilling | 800 | [Java](Dominopilling.java) |
+| 59A | Word | 800 | [Java](Word.java) |
 | 71A | Way Too Long Words | 800 | [Java](WayTooLongWords.java) |
 | 116A | Tram | 800 | [Java](Tram.java) |
 | 136A | Presents | 800 | [Java](Presents.java) |
@@ -46,7 +47,7 @@ My Codeforces problem-solving journey using Java.
 
 | Rating | Problems |
 |-------:|---------:|
-| 800 | ████████████████ 16 |
+| 800 | █████████████████ 17 |
 | 900 | ██ 2 |
 | 1000 | ██ 2 |
 | 1100 | █ 1 |
